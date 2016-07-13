@@ -1,4 +1,7 @@
 /*
+matrix_multi.c
+Created by M. Mirza Fahmi on 13/06/2016
+
 This program perform square matrix multiplication between two matrices (A & B).
 A & B are generated with random value and will be store in text file.
 This text file will be read as input file to generate matrix C.
