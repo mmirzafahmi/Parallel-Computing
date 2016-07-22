@@ -1,5 +1,5 @@
 /*
-parallel_matrix_multi.c
+multi_paralv1.c
 Created by M. Mirza Fahmi on 13/06/2016
 
 This program perform square matrix multiplication between two matrices (A & B).
